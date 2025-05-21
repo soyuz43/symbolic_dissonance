@@ -12,3 +12,4 @@ def trace(input):
 
 if __name__ == "__main__":
     trace()
+cd 
