@@ -6,7 +6,7 @@ This document provides a structured system overview of the **Symbolic Dissonance
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
@@ -23,7 +23,7 @@ graph TD
 
 ---
 
-## 🔍 Component Breakdown
+## Component Breakdown
 
 ### A. User Input
 
